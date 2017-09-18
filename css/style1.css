@@ -1,0 +1,42 @@
+html {
+  background-image: url(../img/img.jpg);
+  background-attachment: fixed;
+}
+
+p {
+  font-size: 16px;
+  font-family: open sans;
+  text-align: justify;
+}
+
+h1 {
+  font-size: 24px;
+  font-family: open sans;
+  text-align: center;
+  margin: 0;
+  padding: 20px 0;
+  color: #000000;
+}
+
+h2, ul, li {
+  font-size: 18px;
+  font-family: open sans;
+  text-align: justify;
+  color: #000000;
+}
+
+img {
+  display: block;
+  z-index: 1;
+  margin: 0 auto;
+  border: 8px solid black;
+
+}
+
+body {
+  width: 800px;
+  margin: 0 auto;
+  padding: 10px 20px 10px 20px;
+  border: 6px solid black;
+  background: rgba(255,245,215,.5);
+}
